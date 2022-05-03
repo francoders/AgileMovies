@@ -1,0 +1,9 @@
+--- Detalles del Proyecto ---
+
+# Instalaciones Realizadas.
+
+* React Navigation
+* Screens
+* Stack
+* Axios
+* snap-carousel   -> Version desactualizada 'TypePropTypes'
